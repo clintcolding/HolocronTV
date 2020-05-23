@@ -1,0 +1,10 @@
+# Site settings
+title: Holocron (Plex)
+tag_text: Holocron (Plex)
+description: A short wiki to explain the basics of Plex and Ombi!
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
