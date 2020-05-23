@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="description" content="A short wiki to explain the basics of Plex and Ombi!">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Holocron (Plex)</title>
-  <link rel="stylesheet" href="css/main.css">
-
-</head>
-<body>
-  <div class="container">
-    <h1><a href="./">Holocron (Plex)</a></h1>
-    <p>Welcome! Since you’ve found your way here I’ll assume that you’ve already been invited and have access to Plex. If I’m mistaken, you can create a Plex account <a href="https://plex.tv">here</a>.</p>
+I"�<p>Welcome! Since you’ve found your way here I’ll assume that you’ve already been invited and have access to Plex. If I’m mistaken, you can create a Plex account <a href="https://plex.tv">here</a>.</p>
 
 <h2 id="what-is-plex">What is Plex?</h2>
 
@@ -67,8 +53,4 @@
 <p>If you have any issues or more questions, you know where I live.</p>
 
 <p><img src="https://media.giphy.com/media/sBj2bJ0JQLtZu/source.gif" alt="" /></p>
-
-  </div>
-
-</body>
-</html>
+:ET
