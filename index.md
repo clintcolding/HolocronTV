@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Holocron (Plex)
 ---
 
 Welcome! Since you've found your way here I'll assume that you've already been invited and have access to Plex. If I'm mistaken, you can create a Plex account [here](https://plex.tv).
@@ -19,6 +20,10 @@ Holocrons are ancient repositories of knowledge and wisdom that can only be acce
 ![](/imgs/sith-holocron.jpeg)
 
 [Intrigued?](https://starwars.fandom.com/wiki/Holocron) You're welcome.
+
+## Is this thing on?
+
+Can't connect and not sure who's responsible? [Check on the health of the Holocron!](/status)
 
 ## Is it free?
 ![](https://media.giphy.com/media/3orif1QvHz8cjSHq3S/source.gif)
