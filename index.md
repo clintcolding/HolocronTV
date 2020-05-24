@@ -23,7 +23,7 @@ Holocrons are ancient repositories of knowledge and wisdom that can only be acce
 
 ## Is this thing on?
 
-Can't connect and not sure who's responsible? [Check on the health of the Holocron!](/status)
+Can't connect and not sure who's responsible? [Check on the health of the Holocron!](/status.html)
 
 ## Is it free?
 ![](https://media.giphy.com/media/3orif1QvHz8cjSHq3S/source.gif)
